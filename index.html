@@ -69,6 +69,7 @@
 						nig_geo_result.push(group);
 					}
 				});
+				//create download links
 				download(JSON.stringify(nig_geo_result), 'nig_geo.txt', 'text/plain');
 				download(JSON.stringify(nig_geo_result), 'nig_geo.json', 'application/json; charset=utf-8');
 			});
