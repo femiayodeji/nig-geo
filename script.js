@@ -5,7 +5,7 @@
 	    a.href = URL.createObjectURL(file);
 	    a.download = fileName;
 	    a.text = "Download as " + displayName;
-	    a.click();
+	    // a.click();
 		document.body.appendChild(a);
 	}
 
