@@ -1,0 +1,147 @@
+1. Abia State (17 Local Government Areas)
+
+Aba North, Aba South, Arochukwu, Bende, Isiala Ngwa South, Ikwuano, Isiala, Ngwa North, Isukwuato, Ukwa West, Ukwa East, Umuahia, Umuahia South.
+
+2. Adamawa State (22 Local Government Areas)
+
+Demsa, Fufore, Ganye, Girei, Gombi, Jada, Yola North, Lamurde, Madagali, Maiha, Mayo-Belwa, Michika, Mubi South, Numna, Shelleng, Song,Toungo, Jimeta, Yola South, Hung.
+
+3. Anambra State (21 Local Government Areas)
+
+Aguata,Anambra, Anambra West, Anaocha, Awka South, Awka North, Ogbaru, Onitsha South, Onitsha North, Orumba North, Orumba South, Oyi.
+
+4. Akwa Ibom State (31 Local Government Areas)
+
+Abak, eastern Obolo, Eket, Essien Udim, Etimekpo, Etinan, Ibeno, Ibesikpo Asutan, Ibiono Ibom, Ika, Ikono,Ikot Abasi, Ikot Ekpene, Ini, Itu, Mbo, Mkpat Enin, Nsit Ibom, Nsit Ubium, Obot Akara, Okobo, Onna, Orukanam, Oron, Udung Uko,Ukanafun,Esit Eket, Uruan, Urue Offoung, Oruko Ete, Uyo.
+
+5. Bauchi State (20 Local Government Areas)
+
+Alkaleri, Bauchi, Bogoro, Darazo, Dass, Gamawa, Ganjuwa, Giade, Jama`are, Katagum, Kirfi, Misau, Ningi, hira, Tafawa Balewa, Itas gadau, Toro,Warji, Zaki, Dambam.
+
+6. Bayelsa State (9 Local Government Areas)
+
+Brass, Ekeremor, Kolok/Opokuma, Nembe, Ogbia, Sagbama,Southern Ijaw, Yenagoa, Membe.
+
+7. Benue State (22 Local Government Areas)
+
+Ador, Agatu, Apa, Buruku, Gboko, Guma, Gwer east, Gwer west, Kastina,-ala, Konshisha, Kwande, Logo, Makurdii, Obi, Ogbadibo, Ohimini, Oju, Okpokwu, Oturkpo, Tarka, Ukum, Vandekya.
+
+8. Borno State (27 Local Government Areas)
+
+Abadan, Askira/Uba, Bama,Bayo, Biu, Chibok, Damboa, Dikwagubio, Guzamala, Gwoza, Hawul, Jere, Kaga, Kalka/Balge, Konduga, Kukawa, Kwaya-ku, Mafa, Magumeri, Maiduguri, Marte, Mobbar, Monguno, Ngala, Nganzai, Shani.
+
+9. CROSS RIVER STATE (18 LOCAL GOVERNMENT AREAS)
+
+Abia, Akampa, Akpabuyo, Bakassi, Bekwara, Biase, Boki, Calabar south, Etung, Ikom, Obanliku, Obubra, Obudu, Odukpani, Ogoja,, Ugep north, Yala, Yarkur.
+
+10. DELTA STATE (25 LOCAL GOVERNMENT AREAS)
+
+Aniocha south, Anioha, Bomadi, Burutu, Ethiope west, Ethiope east, Ika south, Ika north east, Isoko south,Isoko north, Ndokwa east, Ndokwa west, Okpe,Oshimili north, Oshimili south, Patani, Sapele, Udu, Ughelli south, Ughelli north, Ukwuani, Uviwie, Warri central, Warri north, Warri south.
+
+11. EBONYI STATE (13 LOCAL GOVERNMENT AREAS)
+
+Abakaliki, Afikpo south, Afikpo north, Ebonyi,Ezza, Ezza south, Ikwo, Ishielu, Ivo, Ohaozara, Ohaukwu, Onicha, Izzi.
+
+12. EDO STATE (19 LOCAL GOVERNMENT AREAS)
+
+Akoko-Edo, Egor,Essann east, Esan south east, Esan central,Esan west, Etsako central, Etsako east, Etsako, Orhionwon,Ivia north,Ovia south west, Owan west, Owan south, Uhunwonde.
+
+13. EKITI STATE (16 LOCAL GOVERNMENT AREAS)
+
+Ado Ekiti, Effon Alaiye, Ekiti south west, Ekiti west, Ekiti east, Emure/ise, Orun, Ido,Osi, Ijero, Ikere, Ikole, Ilejemeje,Irepodun, Ise/Orun,Moba, Oye, Aiyekire.
+
+14. ENUGU STATE (17 LOCAL GOVERNMENT AREAS)
+
+Awgu, Aninri, Enugu east, Enugu south, Enugu north, Ezeagu, Igbo Eze north, Igbi etiti, Nsukka,Oji river, Undenu,Uzo Uwani, Udi.
+
+15. GOMBE STATE (11 LOCAL GOVERNMENT AREAS)
+
+Akko, Balanga, Billiri, Dukku, Dunakaye, Gombe, Kaltungo, Kwami, Nafada/Bajoga, Shomgom, Yamaltu/Deba.
+
+16. IMO STATE (27 LOCAL GOVERNMENT AREAS)
+
+Aboh-mbaise, Ahiazu-Mbaise, Ehime-Mbaino, Ezinhite, Ideato North, Ideato south, Ihitte/Uboma, Ikeduru, Isiala, Isu, Mbaitoli, Ngor Okpala, Njaba, Nwangele, Nkwere, Obowo, Aguta, Ohaji Egbema, Okigwe, Onuimo, Orlu, Orsu, Oru west, Oru, Owerri, Owerri North, Owerri south.
+
+17. JIGAWA STATE (27 LOCAL GOVERNMENT AREAS)
+
+Auyo, Babura, Birnin- Kudu, Birniwa, Buji, Dute, Garki, Gagarawa, Gumel , Guri, Gwaram, Gwiwa, Hadeji, Jahun, Kafin-Hausa, kaugama, Kazaure, Kirikisamma, Birnin-magaji, Maigatari, Malamaduri, Miga, Ringim, Roni, Sule Tankarka, Taura, Yankwasi.
+
+18. KADUNA STATE (23 LOCAL GOVERNMENT AREAS)
+
+Brnin Gwari, Chukun, Giwa, Kajuru, Igabi, Ikara, Jaba, Jema`a, Kachia, Kaduna North, Kaduna south, Kagarok, Kauru, Kabau, Kudan, Kere, Makarfi, Sabongari, Sanga, Soba, Zangon-Kataf, Zaria.
+
+20. KANO STATE (44 LOCAL GOVERNMENT AREAS)
+
+Ajigi, Albasu, Bagwai, Bebeji, Bichi, Bunkure, Dala, Dambatta, Dawakin kudu, Dawakin tofa, doguwa, Fagge, Gabasawa, Garko, Garun mallam, Gaya, Gezawa, Gwale, Gwarzo, Kano, Karay, Kibiya, Kiru, Kumbtso, Kunch, Kura, Maidobi, Makoda, MInjibir Nassarawa, Rano, Rimin gado, Rogo, Shanono, Sumaila, Takai, Tarauni, Tofa, Tsanyawa, Tudunwada, Ungogo, Warawa, Wudil.
+
+21. KASTINA STATE (34 LOCAL GOVERNMENT AREAS)
+
+Bakori, Batagarawa, Batsari, Baure, Bindawa, Charanchi, Dan- Musa, Dandume,Danja, Daura, Dutsi, Dutsin `ma, Faskar, Funtua, Ingawa, Jibiya, Kafur, Kaita, Kankara, Kankiya, Katsina, Furfi, Kusada.Mai aduwa, Malumfashi, Mani, Mash, Matazu, Musawa, Rimi, Sabuwa, Safana, Sandamu,Zango.
+
+22. KEBBI STATE (22 LOCAL GOVERNMENT AREAS)
+
+Aliero, Arewa Dandi, Argungu, Augie, Bagudo, Birnin Kebbi, Bunza, Dandi, Danko, Fakai, Gwandu, Jeda, Kalgo, Koko-besse, Maiyaama, Ngaski, Sakaba, Shanga, Suru, Wasugu, Yauri, Zuru.
+
+23. KOGI STATE (20 LOCAL GOVERNMENT AREAS)
+
+Adavi, Ajaokuta, Ankpa, Bassa, Dekina, Yagba east, Ibaji, Idah, Igalamela, Ijumu, Kabba bunu, Kogi, Mopa muro, Ofu, Ogori magongo, Okehi, Okene, Olamaboro, Omala, Yagba west.
+
+24. KWARA STATE (16 LOCAL GOVERNMENT AREAS)
+
+Asa, Baruten, Ede, Ekiti, Ifelodun, Ilorin south, Ilorin west, Ilorin east, Irepodun, Isin, Kaiama, Moro, Offa, Oke ero, Oyun, Pategi.
+
+25. LAGOS STATE (20 LOCAL GOVERNMENT AREAS)
+
+Agege, Alimosho Ifelodun, Alimosho, Amuwo-Odofin, Apapa, Badagry, Epe, Eti-Osa, Ibeju- Lekki,Ifako/Ijaye, Ikeja, Ikorodu, Kosofe, Lagos Island, Lagos Mainland, Mushin, Ojo, Oshodi -Isolo, Shomolu,Surulere.
+
+26. NASSARAWA STATE (13 LOCAL GOVERNMENT AREAS)
+
+Akwanga, Awe, Doma, Karu, Keana, Keffi, Kokona, Lafia, Nassarawa, Nassarawa/Eggon, Obi, Toto, Wamba.
+
+27. NIGER STATE (24 LOCAL GOVERNMENT AREAS)
+
+Agaie, Agwara, Bida, Borgu, Bosso, Chanchanga, Edati, Gbako, Gurara, Kitcha, Kontagora,Lapai, Lavun, Magama, Mariga, Mokwa, Moshegu, Muya, Paiko,Rafi, Shiroro, Suleija, Tawa-Wushishi.
+
+28. OGUN STATE (19 LOCAL GOVERNMENT AREAS)
+
+Abeokuta south,Abeokuta north, Ado-odo/otta, Agbado south, Agbado north, Ewekoro, Idarapo, Ifo, Ijebu east, Ijebu north, Ikenne, Ilugun Alaro, Imeko afon, Ipokia, Obafemi/owode, Odeda, Odogbolu, Ogun waterside, Sagamu.
+
+29. ONDO STATE (18 LOCAL GOVERNMENT AREAS)
+
+Akoko north, Akoko north east, Akoko south east, Akoko south, Akure north, Akure, Idanre, Ifedore, Ese odo, Ilaje, Ilaje oke-igbo, Irele, Odigbo, Okitipupa, Ondo, Ondo east, Ose, Owo.
+
+30. OSUN STATE (30 LOCAL GOVERNMENT AREAS)
+
+Atakumosa west, Atakumosa east, Ayeda-ade, Ayedire, Bolawaduro, Boripe, Ede, Ede north, Egbedore, Ejigbo, Ife north, Ife central, Ife south, Ife east, Ifedayo, Ifelodun, Ilesha west, Ila- orangun, Ilesah east, Irepodun, Irewole, Isokan, Iwo, Obokun, Odo-otin, ola oluwa, olorunda, Oriade, Orolu, Osogbo.
+
+31. OYO STATE (34 LOCAL GOVERNMENT AREAS)
+
+Afijio, Akinyele, Attba, Atigbo, Egbeda, Ibadan, north east, Ibadan central, Ibadan south east, Ibadan west south, Ibarapa east, Ibarapa north, Ido, Ifedapo, Ifeloju, Irepo,Iseyin, Itesiwaju, Iwajowa, Iwajowa olorunshogo, Kajola, Lagelu, Ogbomosho north, Ogbomosho south, Ogo oluwa, Oluyole,Ona ara, Ore lope, Orire,Oyo east, Oyo west, Saki east, Saki west, Surulere.
+
+32. PLATEAU STATE (17 LOCAL GOVERNMENT AREAS)
+
+Barkin/ladi, Bassa, Bokkos, Jos,north, Jos east, Jos south, Kanam, kiyom, Langtang north Langtang south, Mangu, Mikang, Pankshin, Qua`an pan,Shendam, Wase.
+
+33. RIVERS STATE (23 LOCAL GOVERNMENT AREAS)
+
+Abua/Odial, Ahoada west, Akuku toru, Andoni, Asari toru, Bonny, Degema, Eleme, Emohua, Etche, Gokana, Ikwerre, Oyigbo, Khana, Obio/Akpor, Ogba east /Edoni, Ogu/bolo, Okrika, Omumma, Opobo/Nkoro, Portharcourt,Tai.
+
+34. SOKOTO STATE (22 LOCAL GOVERNMENT AREAS)
+
+Binji, Bodinga, Dange/shuni, Gada, Goronyo, Gudu, Gwadabawa, Illella, Kebbe, Kware, Rabah, Sabon -Birni, Shagari, Silame, Sokoto south, Sokoto north, Tambuwal, Tangaza, Tureta, Wamakko,Wurno, Yabo.
+
+35. TARABA STATE (16 LOCAL GOVERNMENT AREAS)
+
+Akdo -kola, Bali, Donga, Gashaka, Gassol, Ibi, Jalingo, K/Lamido, Kurmi, lan, Sardauna, Tarum, Ussa, Wukari, Yorro, Zing.
+
+36. YOBE STATE (17 LOCAL GOVERNMENT AREAS)
+
+Borsari, Damaturu, Fika, Fune, Geidam, Gogaram, Gujba, Gulani, Jakusko, Karasuwa, Machina, Nagere, Nguru, Potiskum, Tarmua, Yunusari, Yusufari,G ashua.
+
+37. ZAMFARA STATE (14 LOCAL GOVERNMENT AREAS)
+
+Anka, bukkuyum, Dungudu, Chafe, Gummi, Gusau, Isa, Kaura/Namoda, Mradun, Maru, Shinkafi, Talata/Mafara, Zumi.
+
+19. FEDERAL CAPITAL TERRITORY (F.C.T) STATE (6 LOCAL GOVERNMENT AREAS)
+
+Abaji, Abuja Municipal. Bwari, Gwagwalada, Kuje, Kwali.
