@@ -1,0 +1,25 @@
+body{
+	padding: 100px;
+	text-align: center;
+}
+h3{
+	margin: 20px;
+}
+p{
+	font-style: italic;
+	margin: 40px;
+	color: #228B22;
+}
+a{
+	background: #cccccc; 
+	box-shadow: 4px 4px 4px silver; 
+	color: #000000; 
+	border-radius: 5px; 
+	text-decoration: none; 
+	margin: 15px; 
+	padding: 10px;
+} 
+a:hover,a:focus,a:active{
+	box-shadow: 10px 10px 10px silver;
+	font-weight: bolder;
+}

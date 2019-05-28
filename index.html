@@ -3,77 +3,19 @@
 <head>
 	<title> Nig-Geo</title>
 	<meta charset="UTF-8">
-	<style type="text/css">
-		body{
-			padding: 100px;
-			text-align: center;
-		}
-	    a{
-	    	background: #cccccc; 
-	    	box-shadow: 4px 4px 4px silver; 
-	    	color: #000000; 
-	    	border-radius: 5px; 
-	    	text-decoration: none; 
-	    	margin: 15px; 
-	    	padding: 10px;
-	    	font-weight: bolder;
-	    } 
-		a:hover,a:focus,a:active{
-			box-shadow: 10px 10px 10px silver;
-			color: #228B22;
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+	<h3>Nig-Geo</h3>
 
+	<p>All states and corresponding local government areas in Nigeria.</p>
+
+	<script type="text/javascript" src="script.js"></script>
 	<script type="text/javascript">
-	document.addEventListener('DOMContentLoaded', run);
-	async function run(){
-		await readTextFile("data.txt");
-	}
-
-	function download(content, fileName, contentType) {
-	    var a = document.createElement("a");
-	    var file = new Blob([content], {type: contentType});
-	    a.href = URL.createObjectURL(file);
-	    a.download = fileName;
-	    a.text = "Download ." + fileName.split('.')[1];
-	    a.click();
-		document.body.appendChild(a);
-	}
-
-	function readTextFile(file)
-	{
-		fetch('data.txt')
-			.then(response => response.text())
-			.then((text) => {
- 				//remove empty lines
- 				var lines = text.split('\n').filter((line) => {
-					return line != "\r";
-				});
-				var nig_geo_result = [];
-				var state = "";
-				lines.forEach((line) => {
-					line = line.toLowerCase();
-					//get state
-					if(line.indexOf("state") > 0){
-						state = line.split("state")[0].split(". ")[1].trim();
-						console.log();						
-					}
-					//get local government area
-					else{
-						let lga = line.trim().split(',')
-						let group = {};
-						group.state = state;
-						group.lga = lga;
-						nig_geo_result.push(group);
-					}
-				});
-				//create download links
-				download(JSON.stringify(nig_geo_result), 'nig_geo.txt', 'text/plain');
-				download(JSON.stringify(nig_geo_result), 'nig_geo.json', 'application/json; charset=utf-8');
-			});
-	}
+		document.addEventListener('DOMContentLoaded', run);
+		async function run(){
+			await readTextFile("data.txt");
+		}
 	</script>
 </body>
 </html>
