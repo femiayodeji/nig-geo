@@ -1,7 +1,7 @@
 
 	function download(content, fileName, contentType, displayName) {
-	    var a = document.createElement("a");
-	    var file = new Blob([content], {type: contentType});
+	    let a = document.createElement("a");
+	    let file = new Blob([content], {type: contentType});
 	    a.href = URL.createObjectURL(file);
 	    a.download = fileName;
 	    a.text = "Download as " + displayName;
@@ -16,11 +16,11 @@
 			.then((text) => {
 				text = text;
  				//remove empty lines
- 				var lines = text.split('\n').filter((line) => {
+ 				let lines = text.split('\n').filter((line) => {
 					return line != "\r";
 				});
-				var nig_geo_result = [];
-				var state = "";
+				let nig_geo_result = [];
+				let state = "";
 				lines.forEach((line) => {
 					line = line.toLowerCase();
 					//get state
